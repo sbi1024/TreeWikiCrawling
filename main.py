@@ -9,7 +9,7 @@ def main():
     # 객체의 메소드 접근
     mbtiCrawling.treeWikiMainCrawling()
     # 버전 관리
-    print("[23.02.20.04]")
+    # print("[23.02.20.04]")
 
 
 

@@ -94,3 +94,507 @@
 [2023-02-20 14:00:51] [TreeWikiMbtiCrawling] [DEBUG] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
 [2023-02-20 14:00:52] [TreeWikiMbtiCrawling] [INFO] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
 [2023-02-20 14:00:52] [TreeWikiMbtiCrawling] [DEBUG] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-20 14:10:33] [TreeWikiMbtiCrawling] [INFO] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-20 14:10:33] [TreeWikiMbtiCrawling] [DEBUG] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-20 14:10:35] [TreeWikiMbtiCrawling] [INFO] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-20 14:10:35] [TreeWikiMbtiCrawling] [DEBUG] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-20 14:10:35] [TreeWikiMbtiCrawling] [INFO] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-20 14:10:35] [TreeWikiMbtiCrawling] [DEBUG] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-20 14:10:36] [TreeWikiMbtiCrawling] [INFO] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-20 14:10:36] [TreeWikiMbtiCrawling] [DEBUG] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-20 14:10:36] [TreeWikiMbtiCrawling] [INFO] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-20 14:10:36] [TreeWikiMbtiCrawling] [DEBUG] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-20 14:10:36] [TreeWikiMbtiCrawling] [INFO] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-20 14:10:36] [TreeWikiMbtiCrawling] [DEBUG] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:16:58] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method start...!!!  
+[2023-02-21 08:16:58] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:16:58] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:16:58] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%95%9C%EC%86%8C%ED%9D%AC 
+[2023-02-21 08:16:58] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  mbti : INFP 
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [DEBUG] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EB%B0%95%EB%B3%B4%EC%98%81 
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:16:59] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  mbti : ESFP 
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [DEBUG] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%9C%A0%EB%9D%BC 
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [DEBUG] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%98%9C%EB%A6%AC 
+[2023-02-21 08:17:00] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [DEBUG] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%B0%A8%EC%8A%B9%EC%9B%90 
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:17:01] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  mbti : ISFP 
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [DEBUG] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EA%B9%80%EC%9A%B0%EB%B9%88 
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속사 
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [DEBUG] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:17:02] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method end...!!!  
+[2023-02-21 08:18:10] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method start...!!!  
+[2023-02-21 08:18:10] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:10] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:10] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%95%9C%EC%86%8C%ED%9D%AC 
+[2023-02-21 08:18:10] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:10] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  mbti : INFP 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [DEBUG] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [DEBUG] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EB%B0%95%EB%B3%B4%EC%98%81 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  mbti : ESFP 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [DEBUG] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [DEBUG] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%9C%A0%EB%9D%BC 
+[2023-02-21 08:18:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [INFO] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [DEBUG] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [DEBUG] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%98%9C%EB%A6%AC 
+[2023-02-21 08:18:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [DEBUG] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [DEBUG] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%B0%A8%EC%8A%B9%EC%9B%90 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  mbti : ISFP 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [DEBUG] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [DEBUG] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EA%B9%80%EC%9A%B0%EB%B9%88 
+[2023-02-21 08:18:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:14] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속사 
+[2023-02-21 08:18:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:14] [TreeWikiMbtiCrawling] [INFO] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:14] [TreeWikiMbtiCrawling] [DEBUG] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:14] [TreeWikiMbtiCrawling] [DEBUG] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:14] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method end...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method start...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%95%9C%EC%86%8C%ED%9D%AC 
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  mbti : INFP 
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [DEBUG] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EB%B0%95%EB%B3%B4%EC%98%81 
+[2023-02-21 08:18:24] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  mbti : ESFP 
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [DEBUG] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%9C%A0%EB%9D%BC 
+[2023-02-21 08:18:25] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [DEBUG] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%98%9C%EB%A6%AC 
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:26] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [DEBUG] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%B0%A8%EC%8A%B9%EC%9B%90 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  mbti : ISFP 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [DEBUG] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EA%B9%80%EC%9A%B0%EB%B9%88 
+[2023-02-21 08:18:27] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:28] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:28] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:28] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속사 
+[2023-02-21 08:18:28] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:28] [TreeWikiMbtiCrawling] [INFO] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:28] [TreeWikiMbtiCrawling] [DEBUG] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:28] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:28] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method end...!!!  
+[2023-02-21 08:18:50] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method start...!!!  
+[2023-02-21 08:18:50] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:50] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:50] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%95%9C%EC%86%8C%ED%9D%AC 
+[2023-02-21 08:18:50] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  mbti : INFP 
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [DEBUG] : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EB%B0%95%EB%B3%B4%EC%98%81 
+[2023-02-21 08:18:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  mbti : ESFP 
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [DEBUG] : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%9C%A0%EB%9D%BC 
+[2023-02-21 08:18:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [DEBUG] : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%98%9C%EB%A6%AC 
+[2023-02-21 08:18:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [DEBUG] : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%B0%A8%EC%8A%B9%EC%9B%90 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  mbti : ISFP 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [DEBUG] : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EA%B9%80%EC%9A%B0%EB%B9%88 
+[2023-02-21 08:18:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속사 
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [INFO] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [DEBUG] : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:18:55] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method end...!!!  
+[2023-02-21 08:19:50] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method start...!!!  
+[2023-02-21 08:19:50] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:19:50] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:19:50] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%95%9C%EC%86%8C%ED%9D%AC 
+[2023-02-21 08:19:50] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  mbti : INFP 
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] : 순서 : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [DEBUG] : 순서 : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EB%B0%95%EB%B3%B4%EC%98%81 
+[2023-02-21 08:19:51] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  mbti : ESFP 
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] : 순서 : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [DEBUG] : 순서 : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%9C%A0%EB%9D%BC 
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:19:52] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] : 순서 : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [DEBUG] : 순서 : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%98%9C%EB%A6%AC 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] : 순서 : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [DEBUG] : 순서 : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%B0%A8%EC%8A%B9%EC%9B%90 
+[2023-02-21 08:19:53] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  mbti : ISFP 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] : 순서 : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [DEBUG] : 순서 : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EA%B9%80%EC%9A%B0%EB%B9%88 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속사 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] : 순서 : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [DEBUG] : 순서 : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:19:54] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method end...!!!  
+[2023-02-21 08:20:10] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method start...!!!  
+[2023-02-21 08:20:10] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:20:10] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:20:10] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%95%9C%EC%86%8C%ED%9D%AC 
+[2023-02-21 08:20:10] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  mbti : INFP 
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  순서 : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [DEBUG] :  순서 : 1 → 한소희 (MBTI 항목 존재) : INFP 
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EB%B0%95%EB%B3%B4%EC%98%81 
+[2023-02-21 08:20:11] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  mbti : ESFP 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  순서 : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [DEBUG] :  순서 : 2 → 박보영 (MBTI 항목 존재) : ESFP 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%9C%A0%EB%9D%BC 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  순서 : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [DEBUG] :  순서 : 3 → 유라 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%ED%98%9C%EB%A6%AC 
+[2023-02-21 08:20:12] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속 그룹 
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  순서 : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [DEBUG] :  순서 : 4 → 혜리 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EC%B0%A8%EC%8A%B9%EC%9B%90 
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:20:13] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : MBTI 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method start...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  mbti : ISFP 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbti method end...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  순서 : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [DEBUG] :  순서 : 5 → 차승원 (MBTI 항목 존재) : ISFP 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method start...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method start...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  treeWikiUrl : https://namu.wiki/w/%EA%B9%80%EC%9A%B0%EB%B9%88 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiUrl method end...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiHtml method end...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method start...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  mbtiText : 소속사 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  getTreeWikiMbtiText method end...!!!  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  순서 : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [DEBUG] :  순서 : 6 → 김우빈 (MBTI 항목 미 존재) : MBTI 항목이 존재 하지 않음. 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] : ====================== 절취선 ====================== 
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  
+[2023-02-21 08:20:14] [TreeWikiMbtiCrawling] [INFO] :  treeWikiMainCrawling method end...!!!  
