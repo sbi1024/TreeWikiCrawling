@@ -28,6 +28,7 @@ class TreeWikiMbtiCarwling:
         # 전역적으로 사용할 soup 선언
         self.soup = ""
 
+
     # crawling main 진입 점
     # → 이 메소드만 호출해서 크롤링 진행 할 예정
     def treeWikiMainCrawling(self):

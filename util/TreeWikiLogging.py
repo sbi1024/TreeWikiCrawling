@@ -25,5 +25,6 @@ class TreeWikiLog:
         file_Handler.setFormatter(self.mbtiFormat)
         self.mbtiLogger.addHandler(file_Handler)
 
+
     def getLogging(self):
         return self.mbtiLogger

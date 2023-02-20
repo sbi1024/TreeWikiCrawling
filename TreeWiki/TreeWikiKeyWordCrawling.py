@@ -7,3 +7,4 @@ class TreeWikiKeyWordCarwling:
         # Log 객체 선언 → debug 이상 레벨 선언
         self.Log = TreeWikiLogging.TreeWikiLog()
         self.Log = self.Log.getLogging()
+
